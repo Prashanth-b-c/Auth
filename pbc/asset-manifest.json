@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Auth/pbc/static/css/main.0f8fc764.css",
+    "main.js": "/Auth/pbc/static/js/main.cc568589.js",
+    "static/js/787.6cf5c74a.chunk.js": "/Auth/pbc/static/js/787.6cf5c74a.chunk.js",
+    "index.html": "/Auth/pbc/index.html",
+    "main.0f8fc764.css.map": "/Auth/pbc/static/css/main.0f8fc764.css.map",
+    "main.cc568589.js.map": "/Auth/pbc/static/js/main.cc568589.js.map",
+    "787.6cf5c74a.chunk.js.map": "/Auth/pbc/static/js/787.6cf5c74a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f8fc764.css",
+    "static/js/main.cc568589.js"
+  ]
+}
